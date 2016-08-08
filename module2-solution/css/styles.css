@@ -5,13 +5,14 @@
 
 h1 {
   margin-bottom: 15px;
+  text-align: center;
+  font-size: 60px;
 }
 
 h2 {
   border: 1px solid black;
-  background-color: #D8F781;
+  text-align: right;
   width: 35%;
-
 }
 
 p {
@@ -23,6 +24,18 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color: white;
+}
+
+#title1 {
+  background-color: #D8F781;
+}
+
+#title2 {
+  background-color: #58ACFA;
+}
+
+#title3 {
+  background-color: #F781D8;
 }
 
 /* Simple Responsive Framework. */
