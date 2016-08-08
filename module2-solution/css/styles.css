@@ -11,8 +11,9 @@ h1 {
 
 h2 {
   border: 1px solid black;
-  text-align: right;
+  text-align: center
   width: 35%;
+  float: right;
 }
 
 p {
